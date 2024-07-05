@@ -1,0 +1,8 @@
+--some-erroneous-argument:x
+--some-correct-argument:1 -now-one-with-wrong-syntax
+--in-dir /nonexistent/path
+--print-help
+--list-files --in-dir /path/to/files
+--search-for:hello --in-dir /path/to/files
+--repair-corrupted-files --in-dir [SOURCE]
+--make-image-thumbnails --in-dir [SOURCE] --dest-dir [OUTPUT]

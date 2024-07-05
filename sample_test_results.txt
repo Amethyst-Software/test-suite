@@ -1,0 +1,8 @@
+err:1
+err:2
+err:3
+lines:94
+compfile:/path/to/compfile-test-5.txt
+compfile:/path/to/compfile-test-6.txt
+compfolder:/path/to/compfolder-test-7.zip|srcfolder:/path/to/srcfolder-test-7.zip
+compfolder:/path/to/compfolder-test-7.zip|srcfolder:/path/to/srcfolder-test-7.zip|method:size
